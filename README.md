@@ -22,5 +22,5 @@ Bu layihənin məqsədi mobil tətbiq istifadəçilərinin davranışlarını t�
 
 
 ## Fayllar
--Mobile App.xlsx – əsas analiz faylı
+Mobile App.xlsx – əsas analiz faylı
 
