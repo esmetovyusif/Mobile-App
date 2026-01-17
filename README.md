@@ -20,6 +20,8 @@ Bu layihənin məqsədi mobil tətbiq istifadəçilərinin davranışlarını t�
 - Gəliri az amma istifadəçi sayı çox olan kampaniyalar
 - Qiyməti çox olan amma az ödəniş edilən kampaniyanı müəyyənləşdirmək
 
+## Region və Kampaniya Analizi Dashboard-u
+![Dashboard](screenshots/dashboard.png)
 
 ## Fayllar
 Mobile App.xlsx – əsas analiz faylı
